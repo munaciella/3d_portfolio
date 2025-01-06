@@ -66,8 +66,8 @@ Ensure the following are installed:
 ### Cloning the Repository
 
 ```bash
-git clone git@github.com:munaciella/3D-Developer-Portfolio.git
-cd 3D-Developer-Portfolio
+git clone [git@github.com:munaciella/3D-Developer-Portfolio.git](https://github.com/munaciella/3d_portfolio)
+cd 3D_portfolio
 
 Installation
 
