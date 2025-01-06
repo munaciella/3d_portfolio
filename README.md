@@ -134,10 +134,11 @@ body {
 
 
 🔗 Links
-	•  [Live Demo](https://francescovurchio-dev.netlify.app/)
+    •  [Source Code](https://github.com/munaciella/3d_portfolio)
+    •  [Live Demo](https://francescovurchio-dev.netlify.app/)   
 
 🚀 More
 
 Feel free to fork and experiment with this project to make it your own!
 
-Built by Francesco Vurchio using React, Three.js, and TailwindCSS. Let’s connect on [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/) target="_blank">
+Built by Francesco Vurchio using React, Three.js, and TailwindCSS. Let’s connect on [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/) <target="_blank">
