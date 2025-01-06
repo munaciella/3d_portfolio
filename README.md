@@ -69,26 +69,35 @@ Ensure the following are installed:
 ```bash
 git clone https://github.com/munaciella/3d_portfolio
 cd 3D_portfolio
+```
 
 Installation
 
 Install dependencies:
 
+```bash
 npm install
+```
 
 Set Up Environment Variables
 
 Create a .env file in the project root and add:
 
-REACT_APP_EMAILJS_USERID=your_emailjs_user_id
-REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
-REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
+```bash
+VITE_APP_EMAILJS_SERVICE_ID=your_emailjs_service_id
+VITE_APP_EMAILJS_TEMPLATE_ID=your_emailjs_template_id
+VITE_APP_EMAILJS_PUBLIC_KEY=your_emailjs_public_key
+```
 
 Replace placeholders with actual EmailJS credentials.
 
 Running the Project
 
+Start the development server:
+
+```bash
 npm run dev
+```
 
 Visit http://localhost:5173 in your browser.
 
