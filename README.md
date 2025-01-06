@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
+  <a href="https://francescovurchio-dev.netlify.app/" target="_blank">
     <img src="https://github.com/adrianhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
   </a>
   <br />
@@ -68,8 +68,8 @@ Ensure the following are installed:
 ### Cloning the Repository
 
 ```bash
-git clone git@github.com:munaciella/3D-Developer-Portfolio.git
-cd 3D-Developer-Portfolio
+git clone https://github.com/munaciella/3D-Developer-Portfolio.git
+cd 3D_portfolio
 
 Installation
 
@@ -126,11 +126,10 @@ body {
 
 
 🔗 Links
-	•	Live Demo
-	•	Source Code
+	•  [Live Demo](https://francescovurchio-dev.netlify.app/)
 
 🚀 More
 
 Feel free to fork and experiment with this project to make it your own!
 
-Built by Francesco Vurchio using React, Three.js, and TailwindCSS. Let’s connect on LinkedIn.
+Built by Francesco Vurchio using React, Three.js, and TailwindCSS. Let’s connect on [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/) target="_blank">
