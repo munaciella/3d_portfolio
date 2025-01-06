@@ -2,6 +2,7 @@
   <br />
   <a href="https://francescovurchio-dev.netlify.app/" target="_blank">
     <img src="https://github.com/adrianhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
+  </a>
   <br />
 
   <div>
@@ -19,13 +20,13 @@
 
 ## 📋 Table of Contents
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+1. [🤖 Introduction](#-introduction)
+2. [⚙️ Tech Stack](#️-tech-stack)
+3. [🔋 Features](#-features)
+4. [🤸 Quick Start](#-quick-start)
+5. [🕸️ Snippets](#️-snippets)
+6. [🔗 Links](#-links)
+7. [🚀 More](#-more)
 
 ## 🤖 Introduction
 
@@ -60,9 +61,9 @@ This project demonstrates my skills in crafting engaging, interactive web experi
 
 Ensure the following are installed:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com/)  
+- [Node.js](https://nodejs.org/en)  
+- [npm](https://www.npmjs.com/)  
 
 ### Cloning the Repository
 
@@ -134,11 +135,11 @@ body {
 
 
 🔗 Links
-    •  [Source Code](https://github.com/munaciella/3d_portfolio)
-    •  [Live Demo](https://francescovurchio-dev.netlify.app/)   
+	•	[Source Code](https://github.com/munaciella/3d_portfolio)
+    •	[Live Demo](https://francescovurchio-dev.netlify.app/)
 
 🚀 More
 
 Feel free to fork and experiment with this project to make it your own!
 
-Built by Francesco Vurchio using React, Three.js, and TailwindCSS. Let’s connect on [LinkedIn](https://www.linkedin.com/in/francesco-vurchio/) <target="_blank">
+Built by Francesco Vurchio using React, Three.js, and TailwindCSS. Let’s connect on [LinkedIn](https://www.linkedin.com/in/francescovurchio/)
