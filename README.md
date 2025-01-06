@@ -102,7 +102,7 @@ npm run dev
 
 Visit http://localhost:5173 in your browser.
 
-🕸️ Snippets
+## 🕸️ Snippets
 
 <details>
 <summary><code>constants.js</code></summary>
@@ -134,11 +134,12 @@ body {
 </details>
 
 
-🔗 Links
+## 🔗 Links
+
 • [GitHub Repository](https://github.com/munaciella/3d_portfolio)
 • [Live Demo](https://francescovurchio-dev.netlify.app/)
 
-🚀 More
+## 🚀 More
 
 Feel free to fork and experiment with this project to make it your own!
 
