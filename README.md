@@ -136,7 +136,8 @@ body {
 
 ## 🔗 Links
 
-• [GitHub Repository](https://github.com/munaciella/3d_portfolio)
+• [Source Code](https://github.com/munaciella/3d_portfolio)
+
 • [Live Demo](https://francescovurchio-dev.netlify.app/)
 
 ## 🚀 More
