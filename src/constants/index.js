@@ -54,7 +54,7 @@ import {
       icon: web,
     },
     {
-      title: "React Developer",
+      title: "Frontend Developer",
       icon: mobile,
     },
     {
