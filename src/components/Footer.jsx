@@ -114,8 +114,8 @@ const Footer = () => {
             &copy; {new Date().getFullYear()} Francesco Vurchio. All rights
             reserved.
           </p>
-          <div className="flex items-center space-x-2 xs:mt-2">
-            <span className="text-white">
+          <div className="flex items-center space-x-1">
+            <span className="text-white mt-3">
               Made with <span className="text-secondary text-md">&#9825;</span>{' '}
               by{' '}
             </span>
@@ -128,8 +128,8 @@ const Footer = () => {
               <img
                 src={avatar}
                 alt="Francesco's Image"
-                width="36"
-                className="border-2 bg-secondary rounded-full border-primary"
+                width="38"
+                className="border-2 bg-secondary rounded-full border-primary mt-3"
               />
             </a>
           </div>
