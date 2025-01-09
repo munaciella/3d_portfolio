@@ -8,15 +8,12 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
@@ -25,14 +22,15 @@ import expressjs from "./tech/expressjs.png";
 import jest from "./tech/jest.png";
 import psql from "./tech/psql.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import pairSniper from './company/pairsniper.png'
+import techReturners from './company/techreturners.png'
+import northcoders from './company/northcoders.png'
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import eventsphere from "./eventsphere.png";
+import munaciellanews from "./munaciellanews.jpg";
+import wax from "./wax.png";
+import velovegans from "./velovegans.jpg";
+import devups from "./devups.png";
 
 export {
   logo,
@@ -40,19 +38,18 @@ export {
   creator,
   mobile,
   web,
+
   github,
   menu,
   close,
+
   css,
-  docker,
-  figma,
   git,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
-  redux,
   tailwind,
   typescript,
   threejs,
@@ -60,11 +57,14 @@ export {
   expressjs,
   jest,
   psql,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+
+  pairSniper,
+  techReturners,
+  northcoders,
+
+  eventsphere,
+  munaciellanews,
+  wax,
+  velovegans,
+  devups,
 };

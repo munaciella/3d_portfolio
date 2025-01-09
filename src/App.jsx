@@ -1,6 +1,6 @@
 import { BrowserRouter } from "react-router-dom"
 // eslint-disable-next-line no-unused-vars
-import {About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas, Footer} from './components';
+import {About, Contact, Experience, Hero, Navbar, Tech, Works, StarsCanvas, Footer} from './components';
 
 const App = () => {
 
@@ -15,7 +15,6 @@ const App = () => {
         <Experience />
         <Tech />
         <Works />
-        {/* <Feedbacks /> */}
         <div className="relative z-0">
           <Contact />
           {/* <StarsCanvas /> */}
