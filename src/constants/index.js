@@ -233,7 +233,7 @@ import {
       ],
       image: munaciellanews,
       source_code_link: "https://github.com/munaciella/NC-news",
-      live_link: "https://munaciella-news.netlify.app/",
+      live_link: "https://munaciella.netlify.app/",
     },
     {
       name: "Recipes Web App",
