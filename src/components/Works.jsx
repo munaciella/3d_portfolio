@@ -211,14 +211,17 @@ import { fadeIn, textVariant } from '../utils/motion'
 
 const ProjectCard = ({ index, name, description, tags, image, source_code_link, live_link }) => {
   return (
-    <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
+    <motion.div 
+    variants={fadeIn("up", "spring", index * 0.5, 0.75)}
+    className="flex flex-col h-full"
+    >
       <Tilt
         options={{
           max: 45,
           scale: 1,
           speed: 450,
         }}
-        className="bg-tertiary p-5 rounded-2xl w-full"
+        className="bg-tertiary p-5 rounded-2xl flex flex-col h-full"
       >
         <div
           className="relative w-full h-[230px] cursor-pointer"
@@ -247,17 +250,19 @@ const ProjectCard = ({ index, name, description, tags, image, source_code_link, 
           </div>
         </div>
 
+        <div className="flex flex-col flex-grow">   
         <div className="mt-5">
           <h3 className="text-white font-bold text-[24px]">{name}</h3>
           <p className="mt-2 text-secondary text-[14px]">{description}</p>
         </div>
 
-        <div className="mt-4 flex flex-wrap gap-2">
+        <div className="mt-auto flex flex-wrap gap-2">
           {tags.map((tag) => (
             <p key={tag.name} className={`text-[14px] ${tag.color}`}>
               #{tag.name}
             </p>
           ))}
+        </div>
         </div>
       </Tilt>
     </motion.div>
