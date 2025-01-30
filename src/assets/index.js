@@ -31,6 +31,7 @@ import munaciellanews from "./munaciellanews.jpg";
 import wax from "./wax.png";
 import velovegans from "./velovegans.jpg";
 import devups from "./devups.png";
+import clarity from "./Clarity Notion-clone.png";
 
 export {
   logo,
@@ -67,4 +68,5 @@ export {
   wax,
   velovegans,
   devups,
+  clarity,
 };
