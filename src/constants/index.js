@@ -25,6 +25,7 @@ import {
     wax,
     velovegans,
     devups,
+    clarity,
   } from "../assets";
   
   export const navLinks = [
@@ -126,8 +127,8 @@ import {
   
   const experiences = [
     {
-      title: "Data Analytics Consultant(Crypto)",
-      company_name: "Pair Sniper",
+      title: "Data Analytics Consultant (Cryptocurrency)",
+      company_name: "Ultimate Hero",
       icon: pairSniper,
       iconBg: "#383E56",
       date: "Sept 2024 - Dec 2024",
@@ -147,7 +148,7 @@ import {
       iconBg: "#fff",
       date: "July 2024 - Aug 2024",
       points: [
-        "Working as a consultant to deliver a bespoke web application for internal development, as part of the Launchpad project, including architecture design, implementation and deployment.",
+        "Developed a bespoke web application for internal development, as part of the Launchpad project, including architecture design, implementation and deployment.",
         "Successfully integrated OAuth authentication (Google, Supabase) enhancing user experience and security.",
         "Backend Enhancements: Implemented robust backend solutions using Supabase, including user management, authentication, and database operations, ensuring eﬃcient data handling and security compliance.",
         "Contributed to frontend development using React, improving UI/UX with responsive design and accessibility considerations.",
@@ -170,6 +171,28 @@ import {
   
   const projects = [
     {
+      name: "Clarity Notes Capturer",
+      description:
+        "A notes capturing and collaboration platform, enabling seamless note-taking, real-time collaboration, and powerful backend functionalities. Built with Next.js, JavaScript, and TailwindCSS, using Firebase, Cloudflare and Liveblocks for backend services.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "firebase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: clarity,
+      source_code_link: "https://github.com/munaciella/clarity-notes-capturer",
+      live_link: "https://clarity-capture.com/",
+    },
+    {
       name: "Events Booking Platform",
       description:
         "A web application for managing events, including user registration, event creation and payment processing. Built with React, JS and TailwindCSS, using Supabase for backend services.",
@@ -183,7 +206,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
