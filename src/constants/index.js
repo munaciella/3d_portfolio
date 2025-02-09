@@ -26,6 +26,7 @@ import {
     velovegans,
     devups,
     clarity,
+    linkedin,
   } from "../assets";
   
   export const navLinks = [
@@ -191,6 +192,28 @@ import {
       image: clarity,
       source_code_link: "https://github.com/munaciella/clarity-notes-capturer",
       live_link: "https://clarity-capture.com/",
+    },
+    {
+      name: "Networking Platform",
+      description:
+        "A full-stack networking platform where users can connect, interact, and engage through posts and comments. Built using Next.js, it leverages Firebase and Cloudflare for data storage and Clerk for authentication.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "cloudflare",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: linkedin,
+      source_code_link: "https://github.com/munaciella/networking-platform-v2",
+      live_link: "https://networked.vercel.app",
     },
     {
       name: "Events Booking Platform",

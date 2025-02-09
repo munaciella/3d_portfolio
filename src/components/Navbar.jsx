@@ -102,7 +102,7 @@ const Navbar = () => {
               {/* View Resume Button in Mobile Menu */}
               <li>
                 <a
-                  href="/Francesco_Vurchio_Resume.pdf"
+                  href={cv}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-white bg-[#915EFF] px-4 py-2 text-center rounded-lg font-medium hover:bg-[#7c4dff] transition"

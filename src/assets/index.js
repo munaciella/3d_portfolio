@@ -32,6 +32,7 @@ import wax from "./wax.png";
 import velovegans from "./velovegans.jpg";
 import devups from "./devups.png";
 import clarity from "./Clarity Notion-clone.png";
+import linkedin from "./linkedin.png";
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   velovegans,
   devups,
   clarity,
+  linkedin,
 };
