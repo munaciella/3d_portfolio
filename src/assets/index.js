@@ -33,6 +33,11 @@ import velovegans from "./velovegans.jpg";
 import devups from "./devups.png";
 import clarity from "./Clarity Notion-clone.png";
 import linkedin from "./linkedin.png";
+import paperly from "./paperly.png";
+import applywise from "./applywise.png";
+import filedrop from "./FileDrop.png";
+import streambuster from "./streambuster.png";
+import flowly from "./flowly.png";
 
 export {
   logo,
@@ -71,4 +76,9 @@ export {
   devups,
   clarity,
   linkedin,
+  paperly,
+  applywise,
+  filedrop,
+  streambuster,
+  flowly,
 };
