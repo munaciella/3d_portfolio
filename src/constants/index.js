@@ -32,6 +32,8 @@ import {
   filedrop,
   streambuster,
   flowly,
+  meteo,
+  quillnote,
 } from "../assets";
 
 export const navLinks = [
@@ -289,7 +291,7 @@ const projects = [
   {
     name: "The Meteo",
     description:
-      "",
+      "A responsive, authenticated weather dashboard built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui. It fetches data from the free Open‑Meteo API and allows users to save multiple cities to their dashboard with localStorage persistence.",
     tags: [
       {
         name: "nextjs",
@@ -300,35 +302,35 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "",
+        name: "open-meteo API",
         color: "pink-text-gradient",
       },
     ],
-    image: clarity,
-    source_code_link: "https://github.com/munaciella/clarity-notes-capturer",
-    live_link: "https://clarity-capture.com/",
+    image: meteo,
+    source_code_link: "https://github.com/munaciella/ultimate-weather",
+    live_link: "https://the-meteo.vercel.app/",
   },
   {
-    name: "Clarity Notes Capturer",
+    name: "QuillNote",
     description:
-      "A notes capturing and collaboration platform, enabling seamless note-taking, real-time collaboration, and powerful backend functionalities. Built with Next.js, JavaScript, and TailwindCSS, using Firebase, Cloudflare and Liveblocks for backend services.",
+      "A Markdown note-taking web app that allows users to create, edit, and delete notes. It features a rich text editor for formatting, a responsive design, and uses Neon DB for data persistence. The app has a Node.js and Express backend with PostgreSQL and OpenAI powered summarisation.",
     tags: [
       {
         name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "firebase",
+        name: "neon",
         color: "green-text-gradient",
       },
       {
-        name: "tailwindcss",
+        name: "typescript",
         color: "pink-text-gradient",
       },
     ],
-    image: clarity,
-    source_code_link: "https://github.com/munaciella/clarity-notes-capturer",
-    live_link: "https://clarity-capture.com/",
+    image: quillnote,
+    source_code_link: "https://github.com/munaciella/notes-frontend",
+    live_link: "https://quillnote.vercel.app/",
   },
   {
     name: "Clarity Notes Capturer",

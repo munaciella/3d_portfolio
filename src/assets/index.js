@@ -38,6 +38,8 @@ import applywise from "./applywise.png";
 import filedrop from "./FileDrop.png";
 import streambuster from "./streambuster.png";
 import flowly from "./flowly.png";
+import meteo from "./meteo.png";
+import quillnote from "./quillnote.png";
 
 export {
   logo,
@@ -81,4 +83,6 @@ export {
   filedrop,
   streambuster,
   flowly,
+  meteo,
+  quillnote,
 };
